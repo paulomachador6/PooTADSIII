@@ -8,7 +8,7 @@ import br.com.ifsul.core.model.Estado;
 /**
  * Hello world!
  *
- */
+ **/
 public class App 
 {
     public static void main( String[] args ) {
